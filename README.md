@@ -13,10 +13,6 @@ This repo contains clean, testable code for all the methods covered in the artic
 
 ## Quick Start
 
-```bash
-git clone https://github.com/yourusername/how-to-check-palindrome-in-python.git
-cd how-to-check-palindrome-in-python
-python palindrome_checker.py
 
 Methods Included
 
